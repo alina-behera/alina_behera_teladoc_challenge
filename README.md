@@ -1,3 +1,5 @@
+### Assignment has been Completed using Protractor with Jasmine framework using TypeScript 
+
 ### 1 Pre-requisites
 * Need to install the below
     * Download and install Chrome or Firefox browser.
